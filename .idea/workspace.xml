@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d097fdb4-66ea-4097-9d68-3b29a828faaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/youandme/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/src/main/java/com/sunil/youandme/YouandmeApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youandme/src/test/java/com/sunil/youandme/YouandmeApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d097fdb4-66ea-4097-9d68-3b29a828faaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +12,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$USER_HOME$/Desktop/youandme">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
@@ -47,9 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2m4Jfz6Apt8SHx6WIyfo253ZMBw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,6 +55,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/Desktop/youandme",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -71,6 +63,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="YouandmeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="youandme.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunil.youandme.YouandmeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
