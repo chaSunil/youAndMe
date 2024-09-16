@@ -14,3 +14,10 @@
 ## 사이트 컨셉
 > 사랑스러운 컨셉입니다.
 > 레벨업 시스템 / 레벨업시 랜덤으로 등급업!!
+> 총 세가지의 귀여운 캐릭터로 나만의 캐릭터 키워나가기
+
+<img src="https://github.com/user-attachments/assets/ea64fc73-725f-4433-bd13-bafc990e1b5c" width="100" />
+<img src="https://github.com/user-attachments/assets/2abfc0f6-c3e8-4db3-80dd-24b5e74e1e70" width="100" />
+<img src="https://github.com/user-attachments/assets/0ff6e58f-1555-44d8-b97e-68e86482830e" width="100" />
+
+
