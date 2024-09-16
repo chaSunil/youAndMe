@@ -11,4 +11,10 @@ public class MainController {
 
         return "main";
     }
+
+    @GetMapping("/levelUp.do")
+    public String levelUp() {
+
+        return "levelUp";
+    }
 }

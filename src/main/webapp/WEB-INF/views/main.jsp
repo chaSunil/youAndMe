@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LoveMatch - 당신의 운명을 찾아드립니다</title>
+    <title>럽식 당신의 공간</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&display=swap');
@@ -27,15 +27,15 @@
             <div class="flex space-x-7">
                 <div>
                     <a href="#" class="flex items-center py-4 px-2">
-                        <span class="font-bold text-2xl text-pink-500">LoveMatch</span>
+                        <span class="font-bold text-2xl text-pink-500">럽식</span>
                     </a>
                 </div>
             </div>
             <div class="hidden md:flex items-center space-x-3">
-                <a href="#" class="py-2 px-4 text-gray-500 hover:text-pink-500 transition duration-300">서비스 소개</a>
-                <a href="#" class="py-2 px-4 text-gray-500 hover:text-pink-500 transition duration-300">성공 스토리</a>
-                <a href="#" class="py-2 px-4 text-gray-500 hover:text-pink-500 transition duration-300">멤버십</a>
-                <a href="#" class="py-2 px-4 bg-pink-500 text-white rounded-full hover:bg-pink-600 transition duration-300">무료 상담 신청</a>
+                <a href="levelUp.do" class="py-2 px-4 text-gray-500 hover:text-pink-500 transition duration-300">레벨업하기</a>
+                <a href="#" class="py-2 px-4 text-gray-500 hover:text-pink-500 transition duration-300">얘기나누기</a>
+                <a href="#" class="py-2 px-4 text-gray-500 hover:text-pink-500 transition duration-300">추억쌓기</a>
+                <a href="#" class="py-2 px-4 bg-pink-500 text-white rounded-full hover:bg-pink-600 transition duration-300">당장 가입</a>
             </div>
         </div>
     </div>
@@ -43,8 +43,8 @@
 
 <header class="gradient-bg pt-32 pb-20">
     <div class="container mx-auto px-4 text-center text-white">
-        <h1 class="text-5xl md:text-6xl font-bold mb-4 text-shadow">당신의 운명을 찾아드립니다</h1>
-        <p class="text-xl mb-8">AI 기반 매칭 시스템으로 최적의 파트너를 만나보세요</p>
+        <h1 class="text-5xl md:text-6xl font-bold mb-4 text-shadow">너와 내가 함께하는 성장 시스템</h1>
+        <p class="text-xl mb-8">함께해야 성장하는 최고의 시스템을 만나보세요!</p>
         <a href="#" class="bg-white text-pink-500 py-3 px-8 rounded-full text-lg font-semibold hover:bg-gray-100 transition duration-300">지금 시작하기</a>
     </div>
 </header>
